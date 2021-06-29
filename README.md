@@ -1,4 +1,4 @@
-# Tab-Navigation
+# React Native - Tab Navigation
 Tab Navigation Study :)
 
 ## Demo
