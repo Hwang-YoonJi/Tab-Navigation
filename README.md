@@ -1,3 +1,30 @@
+# Tab-Navigation
+Tab Navigation Study :)
+
+## Demo
+
+<img src="https://user-images.githubusercontent.com/63582123/123779677-60fe1a80-d90d-11eb-9a8f-818ac2574979.jpeg"  width="347" height="599">
+<img src="https://user-images.githubusercontent.com/63582123/123779502-33b16c80-d90d-11eb-8440-334e2e3d87d2.jpeg"  width="347" height="599">
+
+## Installation
+
+```bash
+npm install @react-navigation/native
+```
+
+```bash
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+```
+
+```bash
+npm install @react-navigation/bottom-tabs
+```
+
+## Usage
+
+### App.js
+
+```jsx
 // You can import Ionicons from @expo/vector-icons if you use Expo or
 // react-native-vector-icons/Ionicons otherwise.
 import * as React from 'react';
@@ -53,3 +80,5 @@ export default function App() {
     </NavigationContainer>
   );
 }
+
+```
